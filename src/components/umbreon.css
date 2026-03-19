@@ -1,0 +1,7 @@
+.unbrImg {
+    background-color: rgb(211, 173, 2);
+    width: 200px;
+    height: 180px;
+    /* Crea un círculo que va de un color al transparente */
+    background: radial-gradient(circle, rgb(233, 210, 6) 0%, rgba(0, 0, 0, 0) 60%);
+}
